@@ -1,0 +1,206 @@
+{
+  "../../../~start/default-client-entry.tsx": {
+    "file": "assets/main-ENfB2Jns.js",
+    "name": "main",
+    "src": "../../../~start/default-client-entry.tsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/routes/users.tsx?tsr-split=component",
+      "src/routes/posts.tsx?tsr-split=component",
+      "src/routes/deferred.tsx?tsr-split=component",
+      "src/routes/_pathlessLayout.tsx?tsr-split=component",
+      "src/routes/index.tsx?tsr-split=component",
+      "src/routes/users.index.tsx?tsr-split=component",
+      "src/routes/posts.index.tsx?tsr-split=component",
+      "src/routes/users.$userId.tsx?tsr-split=notFoundComponent",
+      "src/routes/users.$userId.tsx?tsr-split=component",
+      "src/routes/users.$userId.tsx?tsr-split=errorComponent",
+      "src/routes/posts.$postId.tsx?tsr-split=notFoundComponent",
+      "src/routes/posts.$postId.tsx?tsr-split=component",
+      "src/routes/posts.$postId.tsx?tsr-split=errorComponent",
+      "src/routes/_pathlessLayout/_nested-layout.tsx?tsr-split=component",
+      "src/routes/posts_.$postId.deep.tsx?tsr-split=component",
+      "src/routes/posts_.$postId.deep.tsx?tsr-split=errorComponent",
+      "src/routes/_pathlessLayout/_nested-layout/route-b.tsx?tsr-split=component",
+      "src/routes/_pathlessLayout/_nested-layout/route-a.tsx?tsr-split=component"
+    ],
+    "assets": [
+      "assets/app-DACsPwZv.css"
+    ]
+  },
+  "D:/dev/template_project/start-basic-react-query/src/styles/app.css": {
+    "file": "assets/app-DACsPwZv.css",
+    "src": "D:/dev/template_project/start-basic-react-query/src/styles/app.css"
+  },
+  "_PostError-BaH5Ukkx.js": {
+    "file": "assets/PostError-BaH5Ukkx.js",
+    "name": "PostError",
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/_pathlessLayout.tsx?tsr-split=component": {
+    "file": "assets/_pathlessLayout-yrRQELRo.js",
+    "name": "_pathlessLayout",
+    "src": "src/routes/_pathlessLayout.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/_pathlessLayout/_nested-layout.tsx?tsr-split=component": {
+    "file": "assets/_nested-layout-CIP8sQqA.js",
+    "name": "_nested-layout",
+    "src": "src/routes/_pathlessLayout/_nested-layout.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/_pathlessLayout/_nested-layout/route-a.tsx?tsr-split=component": {
+    "file": "assets/route-a-BcTj8WLQ.js",
+    "name": "route-a",
+    "src": "src/routes/_pathlessLayout/_nested-layout/route-a.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/_pathlessLayout/_nested-layout/route-b.tsx?tsr-split=component": {
+    "file": "assets/route-b-BYuH-O2Z.js",
+    "name": "route-b",
+    "src": "src/routes/_pathlessLayout/_nested-layout/route-b.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/deferred.tsx?tsr-split=component": {
+    "file": "assets/deferred-BmCF07E0.js",
+    "name": "deferred",
+    "src": "src/routes/deferred.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/index.tsx?tsr-split=component": {
+    "file": "assets/index-DhtIY0FT.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts.$postId.tsx?tsr-split=component": {
+    "file": "assets/posts._postId-Dn6TuiTs.js",
+    "name": "posts._postId",
+    "src": "src/routes/posts.$postId.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts.$postId.tsx?tsr-split=errorComponent": {
+    "file": "assets/posts._postId-DDNWzRCN.js",
+    "name": "posts._postId",
+    "src": "src/routes/posts.$postId.tsx?tsr-split=errorComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PostError-BaH5Ukkx.js",
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts.$postId.tsx?tsr-split=notFoundComponent": {
+    "file": "assets/posts._postId-E1qSc8kS.js",
+    "name": "posts._postId",
+    "src": "src/routes/posts.$postId.tsx?tsr-split=notFoundComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts.index.tsx?tsr-split=component": {
+    "file": "assets/posts.index-CarBsWau.js",
+    "name": "posts.index",
+    "src": "src/routes/posts.index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts.tsx?tsr-split=component": {
+    "file": "assets/posts-CtQmwCyf.js",
+    "name": "posts",
+    "src": "src/routes/posts.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts_.$postId.deep.tsx?tsr-split=component": {
+    "file": "assets/posts_._postId.deep-DUoGmrS5.js",
+    "name": "posts_._postId.deep",
+    "src": "src/routes/posts_.$postId.deep.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/posts_.$postId.deep.tsx?tsr-split=errorComponent": {
+    "file": "assets/posts_._postId.deep-i5WzospX.js",
+    "name": "posts_._postId.deep",
+    "src": "src/routes/posts_.$postId.deep.tsx?tsr-split=errorComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "_PostError-BaH5Ukkx.js",
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/users.$userId.tsx?tsr-split=component": {
+    "file": "assets/users._userId-BxC_lg6q.js",
+    "name": "users._userId",
+    "src": "src/routes/users.$userId.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/users.$userId.tsx?tsr-split=errorComponent": {
+    "file": "assets/users._userId-d3XeeVv2.js",
+    "name": "users._userId",
+    "src": "src/routes/users.$userId.tsx?tsr-split=errorComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/users.$userId.tsx?tsr-split=notFoundComponent": {
+    "file": "assets/users._userId-DoqDL6TJ.js",
+    "name": "users._userId",
+    "src": "src/routes/users.$userId.tsx?tsr-split=notFoundComponent",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/users.index.tsx?tsr-split=component": {
+    "file": "assets/users.index-DGGhvQIv.js",
+    "name": "users.index",
+    "src": "src/routes/users.index.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  },
+  "src/routes/users.tsx?tsr-split=component": {
+    "file": "assets/users-BCV_onlT.js",
+    "name": "users",
+    "src": "src/routes/users.tsx?tsr-split=component",
+    "isDynamicEntry": true,
+    "imports": [
+      "../../../~start/default-client-entry.tsx"
+    ]
+  }
+}
